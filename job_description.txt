@@ -1,0 +1,20 @@
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to design, build, and deploy
+machine learning models in production. The ideal candidate has strong Python
+programming skills and hands-on experience with deep learning frameworks such
+as TensorFlow or PyTorch.
+
+Responsibilities:
+- Develop and train machine learning and deep learning models
+- Perform data preprocessing, feature engineering, and model evaluation
+- Work with natural language processing (NLP) and computer vision tasks
+- Deploy models using REST APIs and cloud platforms
+- Collaborate with data scientists and software engineers
+
+Required Skills:
+- Python, NumPy, Pandas, scikit-learn
+- Deep learning: TensorFlow, PyTorch, neural networks
+- NLP, text classification, model deployment
+- SQL and data pipelines
+- Strong understanding of statistics and machine learning algorithms

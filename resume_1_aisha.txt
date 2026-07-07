@@ -1,0 +1,21 @@
+Aisha Khan
+Machine Learning Engineer
+
+Summary:
+Machine learning engineer with 3 years of experience building and deploying
+deep learning models. Strong Python programmer skilled in TensorFlow, PyTorch,
+and scikit-learn. Experienced in NLP and computer vision.
+
+Skills:
+Python, NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, deep learning,
+neural networks, natural language processing, text classification, SQL,
+model deployment, REST API, AWS
+
+Experience:
+- Built and trained deep learning models for image and text classification
+- Designed data preprocessing and feature engineering pipelines
+- Deployed machine learning models as REST APIs on AWS cloud
+- Improved model accuracy through hyperparameter tuning and evaluation
+
+Education:
+B.Tech in Computer Science
